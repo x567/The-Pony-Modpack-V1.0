@@ -16,7 +16,7 @@
     "portraits" : {
       "default" : "player"
     },
-    "followUp" : "ftlrepairmain",
+  
     "conditions" : [
       {
         "type" : "shipLevel",
@@ -25,3 +25,4 @@
     ]
   }
 }
+
