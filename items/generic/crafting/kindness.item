@@ -1,0 +1,9 @@
+{
+  "itemName" : "kindnessgem",
+  "rarity" : "Rare",
+  "inventoryIcon" : "kindness.png",
+  "description" : "100% pure bear-beating kindness.",
+  "shortdescription" : "Element of Kindness",
+  "price" : 250,
+  "pickupQuestTemplates" : [ "harmony.gearup" ]
+}

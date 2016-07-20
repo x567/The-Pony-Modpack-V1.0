@@ -1,0 +1,9 @@
+{
+  "itemName" : "generositygem",
+  "rarity" : "Rare",
+  "inventoryIcon" : "generosity.png",
+  "description" : "100% pure manticore-proof generosity",
+  "shortdescription" : "Element of Generosity",
+  "price" : 250,
+  "pickupQuestTemplates" : [ "harmony.gearup" ]
+}

@@ -1,0 +1,9 @@
+{
+  "itemName" : "laughtergem",
+  "rarity" : "Rare",
+  "inventoryIcon" : "laughter.png",
+  "description" : "100% pure 4th-wall-destroying laughter",
+  "shortdescription" : "Element of Laughter",
+  "price" : 250,
+  "pickupQuestTemplates" : [ "harmony.gearup" ]
+}

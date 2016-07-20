@@ -1,0 +1,9 @@
+{
+  "itemName" : "loyaltygem",
+  "rarity" : "Rare",
+  "inventoryIcon" : "loyalty.png",
+  "description" : "100% pure Gilda-proof loyalty",
+  "shortdescription" : "Element of Loyalty",
+  "price" : 250,
+  "pickupQuestTemplates" : [ "harmony.gearup" ]
+}

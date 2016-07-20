@@ -1,0 +1,9 @@
+{
+  "itemName" : "honestygem",
+  "rarity" : "Rare",
+  "inventoryIcon" : "honesty.png",
+  "description" : "100% pure horse-proof honesty",
+  "shortdescription" : "Element of honesty",
+  "price" : 250,
+  "pickupQuestTemplates" : [ "harmony.gearup" ]
+}

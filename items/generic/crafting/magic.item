@@ -1,0 +1,8 @@
+{
+  "itemName" : "magicgem",
+  "rarity" : "Rare",
+  "inventoryIcon" : "magic.png",
+  "description" : "100% pure non-Trixial magic",
+  "shortdescription" : "Element of Magic",
+  "price" : 250
+}
