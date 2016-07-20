@@ -1,0 +1,39 @@
+{
+  "itemName" : "ponytier3head",
+  "price" : 300,
+  "inventoryIcon" : "icons.png:head",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Uncommon",
+  "description" : "The Fallen King's helm",
+  "shortdescription" : "Crystal King Headband",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+  "itemTags" : [ "titaniumarmor" ],
+  
+  "statusEffects" : [
+    {
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 1.6
+    },
+
+    {
+      "stat" : "protection",
+      "amount" : 13
+    },
+
+    {
+      "stat" : "maxEnergy",
+      "amount" : 9
+    },
+
+    {
+      "stat" : "maxHealth",
+      "amount" : 9
+    }
+  ]
+}

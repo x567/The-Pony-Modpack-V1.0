@@ -1,0 +1,38 @@
+{
+  "itemName" : "pegtier3pants",
+  "price" : 200,
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Uncommon",
+  "description" : "The Fallen King's boots",
+  "shortdescription" : "Crystal King Boots (Peg)",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "pantspeg.png",
+  "femaleFrames" : "pantspeg.png",
+
+  "triggerKeys" : [ "titaniumarmor" ],
+  
+  "statusEffects" : [
+    {
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 1.4
+    },
+
+    {
+      "stat" : "protection",
+      "amount" : 9
+    },
+
+    {
+      "stat" : "maxEnergy",
+      "amount" : 6
+    },
+
+    {
+      "stat" : "maxHealth",
+      "amount" : 6
+    }
+  ]
+}

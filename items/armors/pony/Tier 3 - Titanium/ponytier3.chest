@@ -1,0 +1,47 @@
+{
+  "itemName" : "ponytier3chest",
+  "price" : 500,
+  "inventoryIcon" : "icons.png:chest",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Uncommon",
+  "description" : "The Fallen King's armor",
+  "shortdescription" : "Crystal King Barding",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : {
+    "body" : "chest.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chest.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "itemTags" : [ "titaniumarmor" ],
+  
+  "statusEffects" : [
+    {
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 2.0
+    },
+
+    {
+      "stat" : "protection",
+      "amount" : 22
+    },
+
+    {
+      "stat" : "maxEnergy",
+      "amount" : 15
+    },
+
+    {
+      "stat" : "maxHealth",
+      "amount" : 15
+    }
+  ]
+}

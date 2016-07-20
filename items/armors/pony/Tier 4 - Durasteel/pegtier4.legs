@@ -1,0 +1,38 @@
+{
+	"itemName" : "pegtier4pants",
+	"price" : 250,
+	"inventoryIcon" : "icons.png:pants",
+	"dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+	"maxStack" : 1,
+	"rarity" : "Uncommon",
+	"description" : "Lighter, faster, stronger, shoes.",
+	"shortdescription" : "Next-Gen Pony Boots (Peg)",
+	"tooltipKind" : "armor",
+
+	"maleFrames" : "pantspeg.png",
+	"femaleFrames" : "pantspeg.png",
+
+	"itemTags" : [ "durasteelarmor" ],
+	
+	"statusEffects" : [
+		{
+			"stat" : "powerMultiplier",
+			"baseMultiplier" : 1.5
+		},
+
+		{
+			"stat" : "protection",
+			"amount" : 12
+		},
+
+		{
+			"stat" : "maxEnergy",
+			"amount" : 8
+		},
+
+		{
+			"stat" : "maxHealth",
+			"amount" : 8
+		}
+	]
+}

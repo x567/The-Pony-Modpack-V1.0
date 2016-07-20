@@ -1,0 +1,39 @@
+{
+	"itemName" : "ponytier4head",
+	"price" : 375,
+	"inventoryIcon" : "icons.png:head",
+	"dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+	"maxStack" : 1,
+	"rarity" : "Uncommon",
+	"description" : "Lighter, faster, stronger, helmet.",
+	"shortdescription" : "Next-Gen Pony Helmet",
+	"tooltipKind" : "armor",
+
+	"maleFrames" : "head.png",
+	"femaleFrames" : "head.png",
+	"mask" : "maskhead.png",
+
+	"itemTags" : [ "durasteelarmor" ],
+	
+	"statusEffects" : [
+		{
+			"stat" : "powerMultiplier",
+			"baseMultiplier" : 1.75
+		},
+
+		{
+			"stat" : "protection",
+			"amount" : 18
+		},
+
+		{
+			"stat" : "maxEnergy",
+			"amount" : 12
+		},
+
+		{
+			"stat" : "maxHealth",
+			"amount" : 12
+		}
+	]
+}
