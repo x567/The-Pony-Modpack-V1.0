@@ -1,0 +1,84 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/pony",
+		"value" : [
+			"/ships/alicorn/alicornt0.structure",
+			"/ships/alicorn/alicornt1.structure",
+			"/ships/alicorn/alicornt2.structure",
+			"/ships/alicorn/alicornt3.structure",
+			"/ships/human/humanT4.structure",
+			"/ships/human/humanT5.structure",
+			"/ships/human/humanT6.structure",
+			"/ships/human/humanT7.structure",
+			"/ships/human/humanT8.structure"
+		]
+	},
+		{ "op" : "add",
+		"path" : "/speciesShips/unicorn",
+		"value" : [
+			"/ships/alicorn/alicornt0.structure",
+			"/ships/alicorn/alicornt1.structure",
+			"/ships/alicorn/alicornt2.structure",
+			"/ships/alicorn/alicornt3.structure",
+			"/ships/human/humanT4.structure",
+			"/ships/human/humanT5.structure",
+			"/ships/human/humanT6.structure",
+			"/ships/human/humanT7.structure",
+			"/ships/human/humanT8.structure"
+		]
+	},
+		{ "op" : "add",
+		"path" : "/speciesShips/pegasus",
+		"value" : [
+			"/ships/alicorn/alicornt0.structure",
+			"/ships/alicorn/alicornt1.structure",
+			"/ships/alicorn/alicornt2.structure",
+			"/ships/alicorn/alicornt3.structure",
+			"/ships/human/humanT4.structure",
+			"/ships/human/humanT5.structure",
+			"/ships/human/humanT6.structure",
+			"/ships/human/humanT7.structure",
+			"/ships/human/humanT8.structure"
+		]
+	},
+		{ "op" : "add",
+		"path" : "/speciesShips/changeling",
+		"value" : [
+			"/ships/alicorn/alicornt0.structure",
+			"/ships/alicorn/alicornt1.structure",
+			"/ships/alicorn/alicornt2.structure",
+			"/ships/alicorn/alicornt3.structure",
+			"/ships/human/humanT4.structure",
+			"/ships/human/humanT5.structure",
+			"/ships/human/humanT6.structure",
+			"/ships/human/humanT7.structure",
+			"/ships/human/humanT8.structure"
+		]
+	},	{ "op" : "add",
+		"path" : "/speciesShips/alicorn",
+		"value" : [
+			"/ships/alicorn/alicornt0.structure",
+			"/ships/alicorn/alicornt1.structure",
+			"/ships/alicorn/alicornt2.structure",
+			"/ships/alicorn/alicornt3.structure",
+			"/ships/human/humanT4.structure",
+			"/ships/human/humanT5.structure",
+			"/ships/human/humanT6.structure",
+			"/ships/human/humanT7.structure",
+			"/ships/human/humanT8.structure"
+		]
+	},	{ "op" : "add",
+		"path" : "/speciesShips/ponex",
+		"value" : [
+			"/ships/ponex/ponext0.structure",
+			"/ships/ponex/ponext1.structure",
+			"/ships/ponex/ponext2.structure",
+			"/ships/ponex/ponext3.structure",
+			"/ships/pony/ponyt4.structure",
+			"/ships/human/humanT5.structure",
+			"/ships/human/humanT6.structure",
+			"/ships/human/humanT7.structure",
+			"/ships/human/humanT8.structure"
+		]
+	}
+]

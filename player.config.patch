@@ -1,0 +1,12 @@
+[
+  {
+  	"op" : "add","path" : "/species/-","value" : "alicorn"},
+{ "op": "add", "path": "/species/-", "value" : "pony" },
+{ "op": "add", "path": "/species/-", "value" : "pegasus" },
+{ "op": "add", "path": "/species/-", "value" : "unicorn" },
+  { "op": "add","path": "/defaultCodexes/alicorn", "value": [ "protectorate1", "protectorate2", "ponyprologue", "ponyorigins", "lettertotheprincess" ]},
+{ "op": "add","path": "/defaultCodexes/pony", "value": [ "protectorate1", "protectorate2", "ponyprologue", "ponyorigins", "lettertotheprincess" ]},
+{ "op": "add","path": "/defaultCodexes/unicorn", "value": [ "protectorate1", "protectorate2", "ponyprologue", "ponyorigins", "lettertotheprincess" ]},
+{ "op": "add","path": "/defaultCodexes/pegasus", "value": [ "protectorate1", "protectorate2", "ponyprologue", "ponyorigins", "lettertotheprincess" ]}
+
+]
