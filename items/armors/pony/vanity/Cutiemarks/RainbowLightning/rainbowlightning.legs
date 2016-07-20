@@ -1,0 +1,13 @@
+{
+  "itemName" : "rainbowlightningcutiemarklegs",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A  Rainbow lightning bolt. Suggests speed and adventurousness.",
+  "shortdescription" : "Rainbow Lightning Cutie Mark",
+  "inspectionKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png"
+}

@@ -1,0 +1,13 @@
+{
+  "itemName" : "partyballoonscutiemarkplegs",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Some party balloons. Very energetic.",
+  "shortdescription" : "Party Balloons Cutie Mark",
+  "inspectionKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png"
+}

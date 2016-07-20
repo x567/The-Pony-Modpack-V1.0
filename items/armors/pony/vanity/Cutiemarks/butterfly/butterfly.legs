@@ -1,0 +1,13 @@
+{
+  "itemName" : "butterflycutiemarklegs",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "An butterfly. Very cuite.",
+  "shortdescription" : "Butterfly Cutie Mark",
+  "inspectionKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png"
+}

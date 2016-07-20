@@ -1,0 +1,13 @@
+{
+  "itemName" : "sheildcutiemarkplegs",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A sheild. A great sign of protection.",
+  "shortdescription" : "sheild Cutie Mark",
+  "inspectionKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png"
+}

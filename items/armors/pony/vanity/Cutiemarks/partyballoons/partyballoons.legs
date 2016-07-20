@@ -1,0 +1,13 @@
+{
+  "itemName" : "partyballounscutiemarklegs",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A party balloons cutiemark. Very down-to-earth.",
+  "shortdescription" : "Party Ballon Cutie Mark",
+  "inspectionKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png"
+}

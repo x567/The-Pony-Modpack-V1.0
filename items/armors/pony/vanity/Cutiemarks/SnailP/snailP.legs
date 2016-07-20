@@ -1,0 +1,13 @@
+{
+  "itemName" : "snailcutiemarkplegs",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "note to self: it's probably faster than the creator's connection.",
+  "shortdescription" : "Snail Cutie Mark",
+  "inspectionKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png"
+}

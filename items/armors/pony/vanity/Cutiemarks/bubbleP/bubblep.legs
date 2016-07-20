@@ -1,0 +1,13 @@
+{
+  "itemName" : "bubblecutiemarkplegs",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "the bubbles just don't know what went wrong",
+  "shortdescription" : "Bubble Cutie Mark",
+  "inspectionKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png"
+}
