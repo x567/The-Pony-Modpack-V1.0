@@ -1,0 +1,147 @@
+{
+  "panels" : [
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/respawn/black.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 1.4999,
+          "zoom" : 500,
+          "alpha" : 0,
+          "position" : [480, 270]
+        },
+        {
+          "timecode" : 1.49999,
+          "zoom" : 500,
+          "alpha" : 1,
+          "position" : [480, 270]
+        },
+        {
+          "timecode" : 25,
+          "zoom" : 500,
+          "alpha" : 1,
+          "position" : [480, 270]
+        }
+      ]
+    },
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/respawn/spotlight.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 1.4999,
+          "zoom" : 2,
+          "alpha" : 0,
+          "position" : [478, 212]
+        },
+        {
+          "timecode" : 1.49999,
+          "zoom" : 2,
+          "alpha" : 0.6,
+          "position" : [478, 212]
+        },
+        {
+          "timecode" : 25,
+          "zoom" : 2,
+          "alpha" : 1,
+          "position" : [478, 212]
+        }
+      ]
+    },
+    {
+      "avatar" : "nude",
+      "keyframes" : [
+        {
+          "timecode" : 17.9,
+          "zoom" : 2,
+          "alpha" : 0,
+          "frame" : 0,
+          "position" : [483, 258]
+        },
+        {
+          "timecode" : 20.5,
+          "zoom" : 2,
+          "alpha" : 1,
+          "frame" : 0,
+          "position" : [483, 258]
+        },
+        {
+          "timecode" : 25,
+          "alpha" : 1,
+          "zoom" : 2,
+          "frame" : 100
+        }
+      ]
+    },
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/respawn/pony/layer2.png:{frame}"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 3,
+          "zoom" : 2,
+          "alpha" : 0,
+          "frame" : 0,
+          "position" : [480, 270]
+        },
+        {
+          "timecode" : 5,
+          "zoom" : 2,
+          "alpha" : 1,
+          "frame" : 0,
+          "position" : [480, 270]
+        },
+        {
+          "timecode" : 22,
+          "alpha" : 1,
+          "zoom" : 2,
+          "frame" : 96.999
+        },
+        {
+          "timecode" : 23.5,
+          "alpha" : 0,
+          "zoom" : 2,
+          "frame" : 96.999
+        }
+      ]
+    },
+    {
+      "drawables" : [
+        {
+          "image" : "/cinematics/respawn/pony/white.png"
+        }
+      ],
+      "keyframes" : [
+        {
+          "timecode" : 17.3,
+          "zoom" : 500,
+          "alpha" : 0,
+          "position" : [480, 270]
+        },
+        {
+          "timecode" : 17.8,
+          "zoom" : 500,
+          "alpha" : 1,
+          "position" : [480, 270]
+        },
+        {
+          "timecode" : 22,
+          "zoom" : 500,
+          "alpha" : 0,
+          "position" : [480, 270]
+        }
+      ]
+    }
+  ],
+  "audio" : [
+  ]
+}
