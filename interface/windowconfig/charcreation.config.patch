@@ -1,0 +1,165 @@
+[
+	{
+	  "op": "add",
+	  "path": "/speciesOrdering/-",
+		"value" : "pony"
+	},
+	{
+		"op": "add",
+		"path": "/speciesOrdering/-",
+		"value" : "unicorn"
+	},
+	{
+		"op": "add",
+		"path": "/speciesOrdering/-",
+		"value" : "pegasus"
+	},
+	{
+		"op": "add",
+		"path": "/speciesOrdering/-",
+		"value" : "alicorn"
+	},
+  {
+    "op": "add",
+    "path": "/paneLayout/species/buttons/-",
+    "value": {
+			"id" : 7,
+      "image": "",
+      "position": [
+        210,
+        3
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/species/buttons/-",
+    "value": {
+		  "id" : 8,
+      "image": "",
+      "position": [
+        237,
+        3
+      ]
+    }
+  },
+	{
+    "op": "add",
+    "path": "/paneLayout/species/buttons/-",
+    "value": {
+		  "id" : 9,
+      "image": "",
+      "position": [
+        264,
+        3      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/species/buttons/-",
+    "value": {
+		  "id" : 10,
+      "image": "",
+      "position": [
+        210,
+        -23
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/species/buttons/-",
+    "value": {
+		  "id" : 11,
+      "image": "",
+      "position": [
+        237,
+        -23
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/species/buttons/-",
+    "value": {
+			"id" : 12,
+      "image": "",
+      "position": [
+        264,
+        -23
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/species/buttons/-",
+    "value": {
+		  "id" : 13,
+      "image": "",
+      "position": [
+        210,
+        -49
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/species/buttons/-",
+    "value": {
+		  "id" : 14,
+      "image": "",
+      "position": [
+        237,
+        -49
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/species/buttons/-",
+    "value": {
+			"id" : 15,
+      "image": "",
+      "position": [
+        264,
+        -49
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/species/buttons/-",
+    "value": {
+		  "id" : 16,
+      "image": "",
+      "position": [
+        210,
+        -75
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/species/buttons/-",
+    "value": {
+		  "id" : 17,
+      "image": "",
+      "position": [
+        237,
+        -75
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/species/buttons/-",
+    "value": {
+			"id" : 18,
+      "image": "",
+      "position": [
+        264,
+        -75
+      ]
+    }
+  }
+]
