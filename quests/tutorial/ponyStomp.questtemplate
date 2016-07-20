@@ -1,6 +1,6 @@
 {
   "id" : "thestompenning.gearup",
-  "prerequisites" : ["protectorate" ],
+  "prerequisites" : ["ponytutorial.gearup" ],
   "title" : "^#9be3d6;Ancient Techniques",
   "text" : "Your ship just stopped working, and a weird portal appears. an oddly shaped biped creature came out of it and threw a book at you. the being goes away before you can do anything. anyway, start the backup generators, you will need the lights to work if you want to read that book.",
   "completionText" : "After lighting up the ship once again, you read the book and discover an ancient technique of apple bucking, this might be useful to you now that your stuck in the middle of nowhere.",
