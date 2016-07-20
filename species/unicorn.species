@@ -1,0 +1,201 @@
+{
+  "kind" : "unicorn",
+
+    "charCreationTooltip" : {
+      "title" : "unicorn",
+      "subTitle" : "un",
+      "description" : "Unicorns are one of several kinds of ponies that live in Equestria. They are characterized by their horns and their ability to perform magic." },
+"nameGen" : [ "/species/ponynamegen.config:names", "/species/ponynamegen.config:names" ],
+  "ouchNoises" : [ "/sfx/npc/smallbiped/horse_small_idle1.ogg", "/sfx/npc/smallbiped/horse_small_idle2.ogg" ],
+  "charGenTextLabels" : [ "COAT COLOR", "MANE STYLE", "SHIRT", "CUTIE MARK", "EYES", "MANE COLOR", "SHIRT COLOR", "PANTS COLOR", "UNICORN", "PERSONALITY" ],
+  "skull" : "/humanoid/human/dead.png",
+"effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=ff99e6FF?replace=31a6ffFF=e359b9FF",
+  "defaultBlueprints" : {
+    "tier1" : [
+
+// Empty Hands
+      { "item" : "flaghuman" },
+
+// Anvil
+      { "item" : "humantier1head" },
+      { "item" : "humantier1chest" },
+      { "item" : "humantier1pants" },
+      { "item" : "humantier2head" },
+      { "item" : "humantier2chest" },
+      { "item" : "humantier2pants" },
+
+// Anvil2
+      { "item" : "humantier3head" },
+      { "item" : "humantier3chest" },
+      { "item" : "humantier3pants" },
+      { "item" : "humantier4head" },
+      { "item" : "humantier4chest" },
+      { "item" : "humantier4pants" },
+
+// Anvil3
+      { "item" : "humantier5ahead" },
+      { "item" : "humantier5achest" },
+      { "item" : "humantier5apants" },
+      { "item" : "humantier6ahead" },
+      { "item" : "humantier6achest" },
+      { "item" : "humantier6apants" },
+
+      { "item" : "humantier5mhead" },
+      { "item" : "humantier5mchest" },
+      { "item" : "humantier5mpants" },
+      { "item" : "humantier6mhead" },
+      { "item" : "humantier6mchest" },
+      { "item" : "humantier6mpants" },
+
+      { "item" : "humantier5shead" },
+      { "item" : "humantier5schest" },
+      { "item" : "humantier5spants" },
+      { "item" : "humantier6shead" },
+      { "item" : "humantier6schest" },
+      { "item" : "humantier6spants" },
+
+// Furniture Table 2
+      { "item" : "humanstoragelocker" },
+
+// Spinning Wheel      
+      { "item" : "conceptchest" },
+      { "item" : "conceptlegs" },
+      { "item" : "coolchest" },
+      { "item" : "coollegs" },
+      { "item" : "sweatervestchest" },
+      { "item" : "sweatervestlegs" },
+      { "item" : "workoutchest" },
+      { "item" : "workoutlegs" }
+
+/*     
+      { "item" : "humantier1hammer" },
+      { "item" : "humantier1shortsword" },
+      { "item" : "humantier1broadsword" },
+      { "item" : "humantier1spear" },
+      { "item" : "humantier1axe" },
+      { "item" : "humantier1dagger" },
+
+      { "item" : "humantier2hammer" },
+      { "item" : "humantier2shortsword" },
+      { "item" : "humantier2broadsword" },
+      { "item" : "humantier2spear" },
+      { "item" : "humantier2axe" },
+      { "item" : "humantier2dagger" },
+
+      { "item" : "humantier3hammer" },
+      { "item" : "humantier3shortsword" },
+      { "item" : "humantier3broadsword" },
+      { "item" : "humantier3spear" },
+      { "item" : "humantier3axe" },
+      { "item" : "humantier3dagger" },
+      
+      { "item" : "humantier4hammer" },
+      { "item" : "humantier4shortsword" },
+      { "item" : "humantier4broadsword" },
+      { "item" : "humantier4spear" },
+      { "item" : "humantier4axe" },
+      { "item" : "humantier4dagger" },
+
+      { "item" : "humantier5dagger" },
+
+      { "item" : "humantier8hammer" },
+      { "item" : "humantier8shortsword" },
+      { "item" : "humantier8broadsword" },
+      { "item" : "humantier8spear" },
+      { "item" : "humantier8axe" },
+      { "item" : "humantier8dagger" },
+
+      { "item" : "humantier6dagger" },
+      
+      { "item" : "humantier10hammer" },
+      { "item" : "humantier10shortsword" },
+      { "item" : "humantier10broadsword" },
+      { "item" : "humantier10spear" },
+      { "item" : "humantier10axe" },
+      { "item" : "humantier10dagger" }
+*/
+    ]
+  },
+  "altOptionAsUndyColor" : true,
+ "altOptionAsFacialMask" : true,
+  "headOptionAsHairColor" : true,
+  "altOptionAsHairColor" : true,
+  "genders" : [
+    {
+      "name" : "male",
+      "image" : "/interface/title/male.png",
+			"characterImage" : "/interface/title/unicornmale.png",
+      	"hair" : [ "male1", "male2", "male3", "male4", "male5", "male6", "male7", "male8", "male9", "male10", "male11", "male12", "male13" ],
+			"shirt" : [ "invisiblechest" ],
+      	 "pants" : [ "starcutiemarklegs", "heartcutiemarklegs", "lightningcutiemarklegs", "applecutiemarklegs", "bubblecutiemarklegs", "notecutiemarklegs", "hourglasscutiemarklegs", "butterflycutiemarklegs", "partyballounscutiemarklegs", "rainbowlightningcutiemarklegs", "carrotcutiemarklegs", "snailcutiemarklegs", "snipscutiemarklegs", "lunacutiemarklegs", "snakecutiemarklegs", "sheildcutiemarklegs", "starscutiemarklegs", "" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "eyes",
+      "facialMask" : [ "4", "4a", "4b", "4c", "4D", "4e", "4f", "5", "5a", "5b", "5c", "5D", "5e", "5f" ]
+    },
+    {
+      "name" : "female",
+      "image" : "/interface/title/female.png",
+			"characterImage" : "/interface/title/unicornfemale.png",
+      "hair" : [ "fem1", "fem2", "fem3", "fem4", "fem5", "fem6", "fem7", "fem8", "fem9", "fem10", "fem11", "fem12", "fem13" ], //  "hair2cut" "hair9cut"
+      	"shirt" : [ "invisiblechest" ],
+      	 "pants" : ["starcutiemarklegs", "heartcutiemarklegs", "lightningcutiemarklegs", "applecutiemarklegs", "bubblecutiemarklegs", "notecutiemarklegs", "hourglasscutiemarklegs", "butterflycutiemarklegs", "partyballounscutiemarklegs", "rainbowlightningcutiemarklegs", "carrotcutiemarklegs", "snailcutiemarklegs", "snipscutiemarklegs", "lunacutiemarklegs", "snakecutiemarklegs", "sheildcutiemarklegs", "starscutiemarklegs", "" ],      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "eyes",
+      "facialMask" : [ "1", "1a", "1b", "1c", "1D", "1e", "1f", "2", "2a", "2b", "2c", "2D", "2e", "2f", "3", "3a", "3b", "3c", "3D", "3e", "3f" ]
+    }
+  ],
+  	"bodyColor" : [
+	 { "ffca8a" : "ffca8a", "e0975c" : "f4f4f6", "a85636" : "dad5d7", "6f2919" : "968d92" }, //"generosity"
+	 { "ffca8a" : "ffca8a", "e0975c" : "ece7ed", "a85636" : "d1b0bf", "6f2919" : "876574" }, //molestia
+	 { "ffca8a" : "ffca8a", "e0975c" : "c6cde0", "a85636" : "9298be", "6f2919" : "565e8c" }, //other best pony
+	 { "ffca8a" : "ffca8a", "e0975c" : "9dd9f7", "a85636" : "6caadd", "6f2919" : "649ac6" }, //dash dash dash dash dash dash rainbow dash
+	 { "ffca8a" : "ffca8a", "e0975c" : "8cc6ce", "a85636" : "528c73", "6f2919" : "427b63" }, //snips
+	 { "ffca8a" : "ffca8a", "e0975c" : "caaad1", "a85636" : "9a66ac", "6f2919" : "8f709a" }, //twilight speckle
+	 { "ffca8a" : "ffca8a", "e0975c" : "223377", "a85636" : "112244", "6f2919" : "13244D" }, //royal canterlot voice
+	 { "ffca8a" : "ffca8a", "e0975c" : "ee4455", "a85636" : "bb1122", "6f2919" : "991122" }, //ayep
+	 { "ffca8a" : "ffca8a", "e0975c" : "f8b9ce", "a85636" : "e57eb3", "6f2919" : "cd71a1" }, //pinkie pie
+	 { "ffca8a" : "ffca8a", "e0975c" : "f0c979", "a85636" : "e1843a", "6f2919" : "be5535" }, //best pony
+	 { "ffca8a" : "ffca8a", "e0975c" : "f8b938", "a85636" : "c28100", "6f2919" : "aa760b" }, //snels
+	 { "ffca8a" : "ffca8a", "e0975c" : "fff797", "a85636" : "deb406", "6f2919" : "9a7c00" }, //fluttershy
+	 { "ffca8a" : "FFFFFF", "e0975c" : "C2C7D6", "a85636" : "838AAB", "6f2919" : "747b98" }, //derpy
+	 { "ffca8a" : "FFFFFF", "e0975c" : "bca97b", "a85636" : "99824f", "6f2919" : "8c7748" }, //dr whooves
+	 { "ffca8a" : "FFCA8A", "e0975c" : "E0975C", "a85636" : "A85636", "6f2919" : "6F2919" }, //orange
+	 { "ffca8a" : "E2B2FF", "e0975c" : "B374D4", "a85636" : "7C4992", "6f2919" : "4B2655" }, //purp
+	 { "ffca8a" : "9E9E9E", "e0975c" : "696969", "a85636" : "434343", "6f2919" : "191919" }, //black
+	 { "ffca8a" : "FFFFFF", "e0975c" : "D7D5DB", "a85636" : "8E8E9B", "6f2919" : "6D6D6D" }, //grey
+	 { "ffca8a" : "FFFFFF", "e0975c" : "6eff3e", "a85636" : "2ab004", "6f2919" : "52961f" }, //lime green
+	 { "ffca8a" : "FFFFFF", "e0975c" : "4e2500", "a85636" : "331800", "6f2919" : "281300" }, //any pony
+	 { "ffca8a" : "FFFFFF", "e0975c" : "c6c0cb", "a85636" : "6c6176", "6f2919" : "554d5e" }, //Digi the great
+	 { "ffca8a" : "FFFFFF", "e0975c" : "eeeeee", "a85636" : "909090", "6f2919" : "5d5d5d" }, //Antony C
+	 { "ffca8a" : "FFFFFF", "e0975c" : "7d7dfe", "a85636" : "5454fe", "6f2919" : "2929fe" }, //A guy who's helping me
+	 { "ffca8a" : "FFFFFF", "e0975c" : "a3272a", "a85636" : "431011", "6f2919" : "591517" }, //ink rose
+	 { "ffca8a" : "FFFFFF", "e0975c" : "4fe9ef", "a85636" : "11b3bb", "6f2919" : "0e9298" }, //I HEART KP A LOT
+	 { "ffca8a" : "FFFFFF", "e0975c" : "b5d05d", "a85636" : "9ab735", "6f2919" : "6f8426" }	//greenish	 
+	],
+
+ 	"undyColor" : [ "" ],
+  "hairColor" : [
+		{ "f7e7b2" : "59DBDF", "d9c189" : "00C4DF", "a38d59" : "0072CF", "735e3a" : "003479", "ffbaec" : "F9BBFB", "fd8ad9" : "D7A3E7", "ff60bd" : "AD78C4", "e43c77" : "6E2A93" }, //Vinyl
+	{ "f7e7b2" : "FAF9AF", "d9c189" : "00C4DF", "a38d59" : "0072CF", "735e3a" : "E7DD6B", "ffbaec" : "F9BBFB", "fd8ad9" : "D7A3E7", "ff60bd" : "AD78C4", "e43c77" : "6E2A93" }, //Derpy
+	{ "f7e7b2" : "FAF9AF", "d9c189" : "00C4DF", "a38d59" : "4f4223", "735e3a" : "342616", "ffbaec" : "F9BBFB", "fd8ad9" : "D7A3E7", "ff60bd" : "AD78C4", "e43c77" : "6E2A93" }, //Drwhooves
+		{ "f7e7b2" : "999999", "d9c189" : "666666", "a38d59" : "333333", "735e3a" : "000000", "ffbaec" : "95CAFF", "fd8ad9" : "4AA5FF", "ff60bd" : "004080", "e43c77" : "002142" }, //Midnight
+		{ "f7e7b2" : "95CAFF", "d9c189" : "4AA5FF", "a38d59" : "273773", "735e3a" : "141F46", "ffbaec" : "FFBAEC", "fd8ad9" : "FD8AD9", "ff60bd" : "ED438A", "e43c77" : "652D8A" }, //TwilightBlend
+		{ "f7e7b2" : "F1F6F6", "d9c189" : "6B3E87", "a38d59" : "5E4FA2", "735e3a" : "46225F", "ffbaec" : "E0F0FC", "fd8ad9" : "BDE7F9", "ff60bd" : "99D4F4", "e43c77" : "3B8FC9" }, //RarityTrixie
+		{ "f7e7b2" : "fdf6af", "d9c189" : "EDE27B", "a38d59" : "F2B56A", "735e3a" : "EA7642", "ffbaec" : "EA3A52", "fd8ad9" : "CD3435", "ff60bd" : "892223", "e43c77" : "581616" }, //AppleRed
+		{ "f7e7b2" : "F5BAD9", "d9c189" : "E580BB", "a38d59" : "ED458B", "735e3a" : "be1d77", "ffbaec" : "BE6289", "fd8ad9" : "BD3671", "ff60bd" : "952959", "e43c77" : "791045" }, //Pinkieamena
+		{ "f7e7b2" : "FFFFFF", "d9c189" : "AEE8E6", "a38d59" : "76E9E6", "735e3a" : "4DD0C8", "ffbaec" : "FFFFFF", "fd8ad9" : "AEE8E6", "ff60bd" : "76E9E6", "e43c77" : "4DD0C8" }, //Heartstrings
+		{ "f7e7b2" : "BCA97B", "d9c189" : "99824F", "a38d59" : "4F4223", "735e3a" : "342616", "ffbaec" : "999999", "fd8ad9" : "666666", "ff60bd" : "333333", "e43c77" : "000000" }, //BlackWhooves
+		{ "f7e7b2" : "56C4E0", "d9c189" : "355296", "a38d59" : "243670", "735e3a" : "121C35", "ffbaec" : "8641DB", "fd8ad9" : "6E2A93", "ff60bd" : "254ABC", "e43c77" : "383A76" }, //DarkBluePurple
+		{ "f7e7b2" : "EDE27B", "d9c189" : "FCBA63", "a38d59" : "F28E46", "735e3a" : "EA7642", "ffbaec" : "FF5E5B", "fd8ad9" : "FF312D", "ff60bd" : "C42623", "e43c77" : "891A18" }, //FireOrange
+	{ "f7e7b2" : "A13838", "d9c189" : "B12020", "a38d59" : "0F0F0F", "735e3a" : "A13838", "ffbaec" : "A13838", "fd8ad9" : "B12020", "ff60bd" : "0F0F0F", "e43c77" : "A13838" }, //BloodBlack
+	{ "f7e7b2" : "FBBCE4", "d9c189" : "BA0D81", "a38d59" : "672F89", "735e3a" : "1E98D3", "ffbaec" : "62BC4D", "fd8ad9" : "FDF6AF", "ff60bd" : "F37033", "e43c77" : "EE4144" }, //Rainbow
+		{ "f7e7b2" : "95CAFF", "d9c189" : "4AA5FF", "a38d59" : "273773", "735e3a" : "4f3e62", "ffbaec" : "FFBAEC", "fd8ad9" : "ffaec9", "ff60bd" : "ffc5f7", "e43c77" : "82689f" }, //Digibra
+		{ "f7e7b2" : "95CAFF", "d9c189" : "4AA5FF", "a38d59" : "273773", "735e3a" : "4b80ff", "ffbaec" : "FFBAEC", "fd8ad9" : "ffaec9", "ff60bd" : "7da5ff", "e43c77" : "9fbcff" }, //Mr.C
+		{ "f7e7b2" : "95CAFF", "d9c189" : "4AA5FF", "a38d59" : "273773", "735e3a" : "3f5779", "ffbaec" : "FFBAEC", "fd8ad9" : "8aaede", "ff60bd" : "7d9ed6", "e43c77" : "3f6393" }, //Any pony
+		{ "f7e7b2" : "95CAFF", "d9c189" : "4AA5FF", "a38d59" : "273773", "735e3a" : "3f5779", "ffbaec" : "260d0e", "fd8ad9" : "3f1a1b", "ff60bd" : "541b1e", "e43c77" : "260d0e" }, //Miss rose
+		{ "f7e7b2" : "95CAFF", "d9c189" : "4AA5FF", "a38d59" : "273773", "735e3a" : "3f5779", "ffbaec" : "260d0e", "fd8ad9" : "ffe500", "ff60bd" : "87300a", "e43c77" : "4b1b05" }	//I <3 KP A LOT
+	]
+
+}
+
