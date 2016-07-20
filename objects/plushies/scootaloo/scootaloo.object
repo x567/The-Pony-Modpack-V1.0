@@ -1,0 +1,27 @@
+{
+	"objectName": "scootaloo",
+	"colonyTags" : ["pony"],
+	"rarity": "Common",
+	"category": "decorative",
+	"price": 100,
+
+	"description": "Plush of a cutie-mark seeking filly",
+	"shortdescription": "Scootaloo",
+	"race": "generic",
+
+	"inventoryIcon": "scootaloo.png",
+	"orientations": [
+	{
+		"dualImage": "scootaloo.png:<color>",
+
+		"imagePosition": [-8, -8],
+		"frames": 1,
+		"animationCycle": 0.5,
+
+		"spaceScan": 0.1,
+		"anchors": [ "bottom" ]
+
+    }
+  ]
+}
+

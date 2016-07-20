@@ -1,0 +1,27 @@
+{
+	"objectName": "vinyl",
+	"colonyTags" : ["pony"],
+	"rarity": "Common",
+	"category": "decorative",
+	"price": 100,
+
+	"description": "Plush of a wub-loving mare",
+	"shortdescription": "Vinyl",
+	"race": "generic",
+
+	"inventoryIcon": "vinyl.png",
+	"orientations": [
+	{
+		"dualImage": "vinyl.png:<color>",
+
+		"imagePosition": [-8, -8],
+		"frames": 1,
+		"animationCycle": 0.5,
+
+		"spaceScan": 0.1,
+		"anchors": [ "bottom" ]
+
+    }
+  ]
+}
+

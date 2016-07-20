@@ -1,0 +1,27 @@
+{
+	"objectName": "trixie",
+	"colonyTags" : ["pony"],
+	"rarity": "Common",
+	"category": "decorative",
+	"price": 100,
+
+	"description": "Plush of the Great and Powerful Trixie!!",
+	"shortdescription": "Trixie",
+	"race": "generic",
+
+	"inventoryIcon": "trixie.png",
+	"orientations": [
+	{
+		"dualImage": "trixie.png:<color>",
+
+		"imagePosition": [-8, -8],
+		"frames": 1,
+		"animationCycle": 0.5,
+
+		"spaceScan": 0.1,
+		"anchors": [ "bottom" ]
+
+    }
+  ]
+}
+
