@@ -1,0 +1,14 @@
+{
+  "itemName" : "ponygalapphead",
+  "inventoryIcon" : "icons.png:head",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "It looks like we fed candy to a fez.", //description
+  "shortdescription" : "Pinkie Pie's Gala Hat", //title
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png"
+}

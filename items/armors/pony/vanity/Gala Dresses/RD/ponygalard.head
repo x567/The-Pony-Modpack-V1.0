@@ -1,0 +1,14 @@
+{
+  "itemName" : "ponygalardhead",
+  "inventoryIcon" : "icons.png:head",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Wearing a crown may offence the hosts of the gala.", //description
+  "shortdescription" : "RD's Gala Crown", //title
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png"
+}

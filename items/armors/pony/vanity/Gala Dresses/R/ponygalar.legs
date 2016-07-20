@@ -1,0 +1,13 @@
+{
+  "itemName" : "ponygalarpants",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "May create fairy tails.", //description
+  "shortdescription" : "Rarity's Gala Slippers", //title
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png"
+}

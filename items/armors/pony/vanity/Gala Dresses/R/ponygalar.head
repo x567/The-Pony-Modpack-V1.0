@@ -1,0 +1,14 @@
+{
+  "itemName" : "ponygalarhead",
+  "inventoryIcon" : "icons.png:head",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A gala dress made to handle any drama queen.", //description
+  "shortdescription" : "Rarity's Gala Dress", //title
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png"
+}

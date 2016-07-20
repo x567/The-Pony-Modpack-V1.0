@@ -1,0 +1,13 @@
+	{
+  "itemName" : "ponygalapppants",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "What kind of lady would wear shoes to a gala?! - Ms.D Queen", //description
+  "shortdescription" : "Pinkie Pie's Gala Shoes", //title
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png"
+}

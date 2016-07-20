@@ -1,0 +1,32 @@
+{
+  "itemName" : "peggalaajpants",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Who would wear boots with a fancy outfit - Ms.D Queen", //description
+  "shortdescription" : "AJ's Gala Boots (peg)", //title
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "pantspeg.png",
+  "femaleFrames" : "pantspeg.png",
+
+  "triggerKeys" : [ "" ],
+  
+  "statusEffects" : [
+    {
+      "stat" : "protection",
+      "amount" : 0
+    },
+
+    {
+      "stat" : "maxEnergy",
+      "amount" : 0
+    },
+
+    {
+      "stat" : "maxHealth",
+      "amount" : 0
+    }
+  ]
+}
