@@ -1,0 +1,27 @@
+{
+	"objectName": "derpy",
+	"colonyTags" : ["pony"],
+	"rarity": "Common",
+	"category": "decorative",
+	"price": 100,
+
+	"description": "Plush of a well-meaning but clumsy mare",
+	"shortdescription": "Derpy",
+	"race": "generic",
+
+	"inventoryIcon": "derpy.png",
+	"orientations": [
+	{
+		"dualImage": "derpy.png:<color>",
+
+		"imagePosition": [-8, -8],
+		"frames": 1,
+		"animationCycle": 0.5,
+
+		"spaceScan": 0.1,
+		"anchors": [ "bottom" ]
+
+    }
+  ]
+}
+

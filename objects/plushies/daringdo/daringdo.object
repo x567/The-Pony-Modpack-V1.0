@@ -1,0 +1,27 @@
+{
+	"objectName": "daringdo",
+	"colonyTags" : ["pony"],
+	"rarity": "Common",
+	"category": "decorative",
+	"price": 100,
+
+	"description": "Plush of the most daring mare",
+	"shortdescription": "Daring do",
+	"race": "generic",
+
+	"inventoryIcon": "daringdo.png",
+	"orientations": [
+	{
+		"dualImage": "daringdo.png:<color>",
+
+		"imagePosition": [-8, -8],
+		"frames": 1,
+		"animationCycle": 0.5,
+
+		"spaceScan": 0.1,
+		"anchors": [ "bottom" ]
+
+    }
+  ]
+}
+

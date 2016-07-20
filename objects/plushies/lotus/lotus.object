@@ -1,0 +1,27 @@
+{
+	"objectName": "lotus",
+	"colonyTags" : ["pony"],
+	"rarity": "Common",
+	"category": "decorative",
+	"price": 100,
+
+	"description": "Plush of one of the spa sisters",
+	"shortdescription": "Lotus",
+	"race": "generic",
+
+	"inventoryIcon": "lotus.png",
+	"orientations": [
+	{
+		"dualImage": "lotus.png:<color>",
+
+		"imagePosition": [-8, -8],
+		"frames": 1,
+		"animationCycle": 0.5,
+
+		"spaceScan": 0.1,
+		"anchors": [ "bottom" ]
+
+    }
+  ]
+}
+

@@ -1,0 +1,32 @@
+{
+	"objectName": "pp",
+	"colonyTags" : ["pony"],
+	"rarity": "Common",
+	"category": "decorative",
+	"price": 100,
+
+	"description": "Plush of the Element of Laughter",
+	"shortdescription": "Pinkie Pie",
+	"race": "generic",
+
+
+
+
+
+
+
+
+	"inventoryIcon": "pp.png",
+	"orientations": [
+	{
+		"dualImage": "pp.png:<color>",
+		"imagePosition": [-8, -8],
+		"frames": 1,
+		"animationCycle": 0.5,
+
+		"spaceScan": 0.1,
+		"anchors": [ "bottom" ]
+
+	}
+	]
+}

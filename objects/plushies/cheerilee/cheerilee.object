@@ -1,0 +1,27 @@
+{
+	"objectName": "cheerilee",
+	"colonyTags" : ["pony"],
+	"rarity": "Common",
+	"category": "decorative",
+	"price": 100,
+
+	"description": "Plush of a caring teacher",
+	"shortdescription": "Cheerilee",
+	"race": "generic",
+
+	"inventoryIcon": "cheerilee.png",
+	"orientations": [
+	{
+		"dualImage": "cheerilee.png:<color>",
+
+		"imagePosition": [-8, -8],
+		"frames": 1,
+		"animationCycle": 0.5,
+
+		"spaceScan": 0.1,
+		"anchors": [ "bottom" ]
+
+    }
+  ]
+}
+

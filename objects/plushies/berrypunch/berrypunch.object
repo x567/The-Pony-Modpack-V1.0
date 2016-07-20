@@ -1,0 +1,27 @@
+{
+	"objectName": "berrypunch",
+	
+	"rarity": "Common",
+	"category": "decorative",
+	"price": 100,
+
+	"description": "Plush of a mare who loves a certain drink",
+	"shortdescription": "Berry punch",
+	"race": "generic",
+
+	"inventoryIcon": "berrypunch.png",
+	"orientations": [
+	{
+		"dualImage": "berrypunch.png:<color>",
+
+		"imagePosition": [-8, -8],
+		"frames": 1,
+		"animationCycle": 0.5,
+
+		"spaceScan": 0.1,
+		"anchors": [ "bottom" ]
+
+    }
+  ]
+}
+

@@ -1,0 +1,27 @@
+{
+	"objectName": "doctorwhooves",
+	"colonyTags" : ["pony"],
+	"rarity": "Common",
+	"category": "decorative",
+	"price": 100,
+
+	"description": "PONY LOVE",
+	"shortdescription": "Doctor whooves",
+	"race": "generic",
+
+	"inventoryIcon": "doctorwhooves.png",
+	"orientations": [
+	{
+		"dualImage": "doctorwhooves.png:<color>",
+
+		"imagePosition": [-8, -8],
+		"frames": 1,
+		"animationCycle": 0.5,
+
+		"spaceScan": 0.1,
+		"anchors": [ "bottom" ]
+
+    }
+  ]
+}
+

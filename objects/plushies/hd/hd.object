@@ -1,0 +1,32 @@
+{
+	"objectName": "hd",
+	"colonyTags" : ["pony"],
+	"rarity": "Common",
+	"category": "decorative",
+	"price": 100,
+
+	"description": "BAD PONY",
+	"shortdescription": "Hornydragon",
+	"race": "generic",
+
+
+
+
+
+
+
+
+	"inventoryIcon": "hd.png",
+	"orientations": [
+	{
+		"dualImage": "hd.png:<color>",
+		"imagePosition": [-8, -8],
+		"frames": 1,
+		"animationCycle": 0.5,
+
+		"spaceScan": 0.1,
+		"anchors": [ "bottom" ]
+
+	}
+	]
+}
