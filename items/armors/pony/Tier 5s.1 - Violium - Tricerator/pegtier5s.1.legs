@@ -1,0 +1,38 @@
+{
+  "itemName" : "pegtier5spants1",
+  "price" : 300,
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "Let's hope it's been cleaned at least once.", //description
+  "shortdescription" : "Tricerator Leggings (peg)", //title
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "pantspeg.png",
+  "femaleFrames" : "pantspeg.png",
+
+  "itemTags" : [ "tier5armor" ],
+
+  "statusEffects" : [
+    {
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 1.5
+    },
+
+    {
+      "stat" : "protection",
+      "amount" : 15
+    },
+
+    {
+      "stat" : "maxEnergy",
+      "amount" : 10
+    },
+
+    {
+      "stat" : "maxHealth",
+      "amount" : 14
+    }
+  ]
+}

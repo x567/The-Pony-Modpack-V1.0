@@ -1,0 +1,44 @@
+{
+  "itemName" : "ponytier6schest",
+  "inventoryIcon" : "icons.png:chest",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "Heavy and robust, this WILL protect you.", //description
+  "shortdescription" : "Butcher's Armor", //title
+  "tooltipKind" : "armor",
+
+  "maleFrames" : {
+    "body" : "chest.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chest.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+  
+  "statusEffects" : [
+    {
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 2.35
+    },
+
+    {
+      "stat" : "protection",
+      "amount" : 40
+    },
+
+    {
+      "stat" : "maxEnergy",
+      "amount" : 30
+    },
+
+    {
+      "stat" : "maxHealth",
+      "amount" : 40
+    }
+  ]
+}

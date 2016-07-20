@@ -1,0 +1,36 @@
+{
+  "itemName" : "ponytier6mpants",
+  "price" : 375,
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "A pair of light Weight boots", //description
+  "shortdescription" : "Chiroptera Boots", //title
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png",
+  
+  "statusEffects" : [
+    {
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 2.0
+    },
+
+    {
+      "stat" : "protection",
+      "amount" : 14
+    },
+
+    {
+      "stat" : "maxEnergy",
+      "amount" : 12
+    },
+
+    {
+      "stat" : "maxHealth",
+      "amount" : 8
+    }
+  ]
+}

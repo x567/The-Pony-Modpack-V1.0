@@ -1,0 +1,47 @@
+{
+  "itemName" : "ponytier5schest1",
+  "price" : 750,
+  "inventoryIcon" : "icons.png:chest",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "A bunch of dead flesh doesn't seem quite effective, but it does the job some how.", //description
+  "shortdescription" : "Tricerator Scales", //title
+  "tooltipKind" : "armor",
+
+  "maleFrames" : {
+    "body" : "chest.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chest.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "itemTags" : [ "tier5armor" ],
+  
+  "statusEffects" : [
+    {
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 2.05
+    },
+
+    {
+      "stat" : "protection",
+      "amount" : 37
+    },
+
+    {
+      "stat" : "maxEnergy",
+      "amount" : 25
+    },
+
+    {
+      "stat" : "maxHealth",
+      "amount" : 35
+    }
+  ]
+}

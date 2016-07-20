@@ -1,0 +1,36 @@
+{
+  "itemName" : "ponytier6spants",
+  "price" : 375,
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "The stripes may attract some bees.", //description
+  "shortdescription" : "Butcher's Leggings", //title
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png",
+  
+  "statusEffects" : [
+    {
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 1.55
+    },
+
+    {
+      "stat" : "protection",
+      "amount" : 16
+    },
+
+    {
+      "stat" : "maxEnergy",
+      "amount" : 12
+    },
+
+    {
+      "stat" : "maxHealth",
+      "amount" : 16
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "itemName" : "ponytier6shead",
+  "price" : 575,
+  "inventoryIcon" : "icons.png:head",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "You could impale your enemy with a simple head-butt.", //description
+  "shortdescription" : "Butcher's Helmet", //title
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+  
+  "statusEffects" : [
+    {
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 1.85
+    },
+
+    {
+      "stat" : "protection",
+      "amount" : 24
+    },
+
+    {
+      "stat" : "maxEnergy",
+      "amount" : 18
+    },
+
+    {
+      "stat" : "maxHealth",
+      "amount" : 24
+    }
+  ]
+}

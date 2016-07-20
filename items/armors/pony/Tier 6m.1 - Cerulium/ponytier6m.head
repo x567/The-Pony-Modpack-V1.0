@@ -1,0 +1,37 @@
+{
+  "itemName" : "ponytier6mhead",
+  "price" : 575,
+  "inventoryIcon" : "icons.png:head",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "I'm bathorse.", //description
+  "shortdescription" : "Chiroptera helmet", //title
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+  "statusEffects" : [
+    {
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 2.5
+    },
+
+    {
+      "stat" : "protection",
+      "amount" : 21
+    },
+
+    {
+      "stat" : "maxEnergy",
+      "amount" : 18
+    },
+
+    {
+      "stat" : "maxHealth",
+      "amount" : 12
+    }
+  ]
+}

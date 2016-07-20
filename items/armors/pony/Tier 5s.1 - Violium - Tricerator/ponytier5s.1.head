@@ -1,0 +1,39 @@
+{
+  "itemName" : "ponytier5shead1",
+  "price" : 450,
+  "inventoryIcon" : "icons.png:head",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "Let's hope that the inside has been cleaned.", //description
+  "shortdescription" : "Tricerator Helmet", //title
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+  "itemTags" : [ "tier5armor" ],
+
+  "statusEffects" : [
+    {
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 1.7
+    },
+
+    {
+      "stat" : "protection",
+      "amount" : 22
+    },
+
+    {
+      "stat" : "maxEnergy",
+      "amount" : 15
+    },
+
+    {
+      "stat" : "maxHealth",
+      "amount" : 21
+    }
+  ]
+}

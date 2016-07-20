@@ -1,0 +1,36 @@
+{
+  "itemName" : "pegtier6apants",
+  "price" : 375,
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "A pair of translucent Boots", //description
+  "shortdescription" : "Pure Ferozium Boots (peg)", //title
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "pantspeg.png",
+  "femaleFrames" : "pantspeg.png",
+  
+  "statusEffects" : [
+    {
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 1.7
+    },
+
+    {
+      "stat" : "protection",
+      "amount" : 15
+    },
+
+    {
+      "stat" : "maxEnergy",
+      "amount" : 12
+    },
+
+    {
+      "stat" : "maxHealth",
+      "amount" : 12
+    }
+  ]
+}

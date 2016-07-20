@@ -1,0 +1,45 @@
+{
+  "itemName" : "ponytier6schest1",
+  "price" : 950,
+  "inventoryIcon" : "icons.png:chest",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Legendary",
+  "description" : "This armosr is said to have resisted to a dragon.",
+  "shortdescription" : "Dragon Shy Armor",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : {
+    "body" : "chest.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chest.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "statusEffects" : [
+    {
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 2.35
+    },
+
+    {
+      "stat" : "protection",
+      "amount" : 40
+    },
+
+    {
+      "stat" : "maxEnergy",
+      "amount" : 30
+    },
+
+    {
+      "stat" : "maxHealth",
+      "amount" : 40
+    }
+  ]
+}
