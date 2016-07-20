@@ -1,0 +1,13 @@
+{
+  "itemName" : "starcutiemarklegs",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "A white star. Represents the desire to explore space, I think.",
+  "shortdescription" : "Star Cutie Mark",
+  "inspectionKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png"
+}
