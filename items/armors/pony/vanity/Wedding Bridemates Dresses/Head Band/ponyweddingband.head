@@ -1,0 +1,14 @@
+{
+	"itemName" : "ponyweddingbandhead",
+	"inventoryIcon" : "icons.png:head",
+	"dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+	"maxStack" : 1,
+	"rarity" : "Common",
+	"description" : "Bridesmaid circlet used during Princess Cadenza's wedding. For use with tail hiding clothes.",
+	"shortdescription" : "Bridesmaid Circlet",
+	"inspectionKind" : "armor",
+
+	"maleFrames" : "head.png",
+	"femaleFrames" : "head.png",
+	"mask" : "mask.png"
+}
