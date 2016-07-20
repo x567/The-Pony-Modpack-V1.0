@@ -1,0 +1,57 @@
+{
+  "objectName" : "appleseed",
+  "rarity" : "Common",
+  "category" : "farmable",
+  "description" : "Fresh apple seeds. Just right for starting your own orchard.",
+  "shortdescription" : "Apple Seeds",
+  "objectType" : "farmable",
+  "printable" : false,
+
+  "apexDescription" : "Apples?. When you could own a banana farm? I think not.",
+  "avianDescription" : "These apples taste unusual.",
+  "floranDescription" : "Sssmells like Ponex.",
+  "glitchDescription" : "Cynical. The Ponex love these, but The Glitch see nothing special.",
+  "humanDescription" : "An apple a day keeps the medpack away.",
+  "hylotlDescription" : "A fruit for those with uncultured taste-buds.",
+  "ponexDescription" : "The most delicious of fruits!",
+
+  "inventoryIcon" : "appleseedicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "appleseed.png:<color>.<stage>.<alt>",
+      "imagePosition" : [0, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "requireTilledAnchors" : true,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "stages" : [
+    {
+      "duration" : [100, 105]
+    },
+    {
+      "duration" : [100, 105]
+    },
+    {
+      "duration" : [100, 105]
+    },
+	{
+      "duration" : [100, 105]
+    },
+	{
+      "duration" : [100, 105]
+    },
+	{
+      "duration" : [100, 105]
+    },
+    {
+      "harvestPool" : "appleHarvest",
+      "resetToStage" : 2
+    }
+  ]  
+}
