@@ -1,0 +1,47 @@
+{
+	"id" : "harmony.gearup",
+	"title" : "^#ff0000;H.^#ff7f00;A.^#ffff00;R.^#00ff00;M.^#00ffff;O.^#8a2be2;N.^#c77df5;Y. ^#ff8f10;System",
+	"text" : "Hey it looks like you have found one of the ^#ff0000;H.^#ff7f00;A.^#ffff00;R.^#00ff00;M.^#00ffff;O.^#8a2be2;N.^#c77df5;Y. ^#ff8f10;System gems^#ffffff;!. It could be a good idea to find the rest of them, you could craft some ^#00ff00;good weapons^#ffffff; out of it. You can buy the gems at their respective ^#ff8f10;pony bot^#ffffff;, or by simply looting them from monsters.",
+	"completionText" : "It looks like you've found all the gems, now you can combine them into a ^#ff0000;H.^#ff7f00;A.^#ffff00;R.^#00ff00;M.^#00ffff;O.^#8a2be2;N.^#c77df5;Y. ^#ffff00;core^#ffffff;! You can craft it at the ^#ff0000;H.^#ff7f00;A.^#ffff00;R.^#00ff00;M.^#00ffff;O.^#8a2be2;N.^#c77df5;Y. ^#ff8f10;Station^#ffffff;!",
+	"rewards" : [ [ 
+		[ "harmonycore", 1]
+	] ],
+	"moneyRange" : [0, 0],
+	"speaker" : "player",
+	"canBeAbandoned" : false,
+	
+	"updateDelta" : 10,
+	"script" : "/quests/scripts/main.lua",
+	"scriptConfig" : {
+		"enableAiCommands" : [ "upgradeBeamaxe1" ],
+		"followUp" : "tutorial2.gearup",
+		"gatherRequirements" : {
+			"items" : {
+				"laughtergem" : {
+					"count" : 1,
+					"consume" : false
+				},
+				"generositygem" : {
+					"count" : 1,
+					"consume" : false
+				},
+				"kindnessgem" : {
+					"count" : 1,
+					"consume" : false
+				},
+				"honestygem" : {
+					"count" : 1,
+					"consume" : false
+				},
+				"magicgem" : {
+					"count" : 1,
+					"consume" : false
+				},
+				"loyaltygem" : {
+					"count" : 1,
+					"consume" : false
+				}
+			}
+		}
+	}
+}

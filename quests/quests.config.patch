@@ -1,0 +1,6 @@
+[
+{ "op" : "add", "path" : "/initialquests/alicorn" , "value" : [ "protectorate","ponytutorial.gearup","flyingLiscence.gearup","telekinesistechquest.gearup","thestompenning.gearup" ] },
+{ "op" : "add", "path" : "/initialquests/unicorn" , "value" : [ "protectorate","ponytutorial.gearup","telekinesistechquest.gearup","thestompenning.gearup" ] },
+{ "op" : "add", "path" : "/initialquests/pegasus" , "value" : [ "protectorate","ponytutorial.gearup","flyingLiscence.gearup","thestompenning.gearup" ] },
+{ "op" : "add", "path" : "/initialquests/pony" , "value" :    [ "protectorate","ponytutorial.gearup","thestompenning.gearup" ] }
+]

@@ -1,0 +1,31 @@
+{
+  "id" : "flyingLiscence.gearup",
+  "prerequisites" : ["protectorate" ],
+  "title" : "^#9be3d6;Flight Liscence",
+  "text" : "You can't find your flying license anymore, get a new one at your AI terminal!  You will need to reboot it first.  Hit it one or two times and it might work again.",
+  "completionText" : "You don't know why, but your terminal started working again.  Great, now get that flying license!",
+  "moneyRange" : [500, 500],
+"rewards" : [
+    [ [ "techcard", 1 ] ]
+  ],
+  "canBeAbandoned" : false,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/main.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    },
+ 
+    "conditions" : [
+      {
+        "type" : "shipLevel",
+        "level" : 1
+      }
+    ],
+
+       "showTech" : [
+      "pegasusflight"
+    ]
+  }
+}

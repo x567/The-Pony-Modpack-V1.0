@@ -1,0 +1,27 @@
+{
+  "id" : "ponytutorial.gearup",
+  "prerequisites" : ["protectorate" ],
+  "title" : "^#9be3d6;Fresh Meat",
+  "text" : "When you left Equestria, vowing to go where no pony had gone before, you probably didn't expect to be attacked by tentacle.  At least you are alive and your ship is orbiting around an unknown planet.  To keep moving you'll need to ^green;repair the ship's thrusters and patch up the hull.",
+  "completionText" : "The ship has rumbled to life!  There's still work to do and I need to fix the FTL drive, but it's a start!",
+  "moneyRange" : [500, 500],
+"rewards" : [
+    [ [ "invisibleback", 1 ],[ "invisiblehead", 1 ],[ "invisiblelegs", 1 ] ]
+  ],
+  "canBeAbandoned" : false,
+
+  "updateDelta" : 10,
+  "script" : "/quests/scripts/main.lua",
+  "scriptConfig" : {
+    "portraits" : {
+      "default" : "player"
+    },
+    "followUp" : "ftlrepairmain",
+    "conditions" : [
+      {
+        "type" : "shipLevel",
+        "level" : 1
+      }
+    ]
+  }
+}
