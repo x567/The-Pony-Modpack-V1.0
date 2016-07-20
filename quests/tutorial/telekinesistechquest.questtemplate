@@ -1,6 +1,6 @@
 {
   "id" : "telekinesistechquest.gearup",
-  "prerequisites" : ["protectorate" ],
+  "prerequisites" : ["ponytutorial.gearup" ],
   "title" : "^#9be3d6;Arcane magic",
   "text" : "Your ship just stopped working, and a weird book seems to have fallen on the S.A.I.L. station.  It's glowing, vibrating and looks awfully old.  Go give it a look, but you should turn the lights back on first.",
   "completionText" : "After lighting up the ship once again, the ship's universal translator lights up and proposes to translate the weird book into an understandable dialect.",
