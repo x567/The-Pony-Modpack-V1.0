@@ -1,0 +1,14 @@
+{
+  "itemName" : "invisiblehead",
+  "inventoryIcon" : "icons.png:head",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Either advanced superconducting thin film projection, or magic.",
+  "shortdescription" : "Invisible Hat",
+  "inspectionKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "solidmask.png"
+}

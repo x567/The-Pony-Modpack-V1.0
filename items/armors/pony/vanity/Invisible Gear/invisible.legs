@@ -1,0 +1,13 @@
+{
+  "itemName" : "invisiblelegs",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Either advanced superconducting thin film projection, or magic.",
+  "shortdescription" : "Invisible Pants",
+  "inspectionKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png"
+}

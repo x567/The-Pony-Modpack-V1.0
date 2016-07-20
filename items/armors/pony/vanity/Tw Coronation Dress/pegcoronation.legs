@@ -1,0 +1,13 @@
+{
+  "itemName" : "pegcoronationpants",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Twilight Sparkle's coronation shoes.",
+  "shortdescription" : "Coronation Shoes (Peg)",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "pantspeg.png",
+  "femaleFrames" : "pantspeg.png"
+}

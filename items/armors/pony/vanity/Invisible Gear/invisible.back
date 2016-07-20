@@ -1,0 +1,10 @@
+{
+  "itemName" : "invisibleback",
+  "inventoryIcon" : "invisiblebackicon.png",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "rarity" : "Common",
+  "description" : "An invisible backpack.",
+  "shortdescription" : "Invisible Backpack",
+  "maleFrames" : "back.png",
+  "femaleFrames" : "back.png"
+}

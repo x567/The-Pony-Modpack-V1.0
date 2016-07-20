@@ -1,0 +1,14 @@
+{
+  "itemName" : "ponyPON-3glasseshead",
+  "inventoryIcon" : "icons.png:head",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Some say the one who created ponies used to wear this.", //description
+  "shortdescription" : "DJ PON-3 glasses", //title
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png"
+}

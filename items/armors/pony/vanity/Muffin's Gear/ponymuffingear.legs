@@ -1,0 +1,13 @@
+{
+  "itemName" : "ponymuffinpants",
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Common",
+  "description" : "Some sort of disguise.", //description
+  "shortdescription" : "Bag Pants", //title
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png"
+}

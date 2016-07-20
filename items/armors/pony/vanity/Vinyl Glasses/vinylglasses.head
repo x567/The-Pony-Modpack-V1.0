@@ -1,0 +1,31 @@
+ {
+  "itemName" : "vinylglasseshead",
+  "inventoryIcon" : "icons.png:head",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "level" : 1,
+  "rarity" : "Common",
+  "description" : "The legend says that once an amazing DJ wore them.",
+  "shortdescription" : "Vinyl's glasses",
+  "inspectionKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+  "colorOptions" : [
+    /* GREY */
+    { "afafaf" : "afafaf"},
+    /* BLACK */
+    { "afafaf" : "000000"},
+    /* RED */
+    { "afafaf" : "ff4545"},
+    /* WHITE */
+    { "afafaf" : "ffffff"},
+    /* ORANGE */
+    { "afafaf" : "E89B1E"},
+    /* YELLOW */
+    { "afafaf" : "FFFC33"}
+  ]
+}
+
