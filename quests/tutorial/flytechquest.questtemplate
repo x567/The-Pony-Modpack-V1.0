@@ -1,6 +1,6 @@
 {
   "id" : "flyingLiscence.gearup",
-  "prerequisites" : ["protectorate" ],
+  "prerequisites" : ["ponytutorial.gearup" ],
   "title" : "^#9be3d6;Flight Liscence",
   "text" : "You can't find your flying license anymore, get a new one at your AI terminal!  You will need to reboot it first.  Hit it one or two times and it might work again.",
   "completionText" : "You don't know why, but your terminal started working again.  Great, now get that flying license!",
