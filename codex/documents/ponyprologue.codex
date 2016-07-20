@@ -1,0 +1,21 @@
+{
+  "id" : "ponyprologue",
+  "title" : "A Pony Journey Begins",
+  "description" : "Pony.",
+  "icon" : "ponyprologue.png",
+  "contentPages" : [
+
+    "It seems odd that there could be a pony destined to explore space, considering for most of pony history nopony had any idea there was anything to explore there, but that's what your cutie mark says. Call it magic.",
+
+    "Magic, however, isn't going to fuel your ship. Better beam down and try to find something to toss in the engine, or this whole brave-new-worlds business is going to be a lot shorter than you thought."
+
+
+
+
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

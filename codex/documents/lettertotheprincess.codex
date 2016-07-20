@@ -1,0 +1,20 @@
+{
+  "id" : "lettertotheprincess",
+  "title" : "A Letter to Princess Celestia",
+  "description" : "Dear Princess Celestia.",
+  "icon" : "lettertotheprincess.png",
+  "contentPages" : [
+
+    "Dear Princess Celestia,
+I seem to have misplaced the Canterlot Science Portable Dragon Postal Device, so I can't actually send this to you right now. But, I'm going to write these letters anyways, and when I return home, I'll have one hay of a story to tell.",
+
+    "Hopefully. So far space travel has been pretty terrible. It seems most of the wildlife on every planet tries to kill you on sight. They don't respond very well to offers of friendship, but fortunately they also aren't very fast. I've recently found a broken sword though, so maybe I will be able to do more than just run away on my next trip down."
+
+
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

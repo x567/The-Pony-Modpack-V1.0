@@ -1,0 +1,20 @@
+{
+  "id" : "ponyorigins",
+  "title" : "An Pony Introduction",
+  "description" : "About Pony.",
+  "icon" : "ponyorigins.png",
+  "contentPages" : [
+
+    "Once upon a time, in the magical land of Equestria, there were two regal sisters that ruled together, and created harmony for all the land. Then alien plant-creatures came from outer space and tried to eat everypony. Thus did ponykind discover the existence of life beyond their world.",
+
+    "Many years have passed since then, and while Equestrian science has come no closer to understanding how Celestia and Luna raise the sun or moon, it has perfected the steam-powered warp drive. Most ponies choose to forget the entire discovery-of-extraterrestrial-life thing ever happened, but the Equestrian Aeronautics and Space Administration (EASA) has a program for a select few ponies to explore the universe and see if there's anything worth making friends with out there."
+
+
+
+
+  ],
+    "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}
