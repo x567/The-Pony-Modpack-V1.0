@@ -1,0 +1,47 @@
+{
+  "itemName" : "ponytier5schest",
+  "price" : 750,
+  "inventoryIcon" : "icons.png:chest",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "This armor doesn't seem too effective, the spikes may reveal your position to the enemy.", //description
+  "shortdescription" : "Dragonoid Armor", //title
+  "tooltipKind" : "armor",
+
+  "maleFrames" : {
+    "body" : "chest.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "femaleFrames" : {
+    "body" : "chest.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+
+  "itemTags" : [ "tier5armor" ],
+  
+  "statusEffects" : [
+    {
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 2.05
+    },
+
+    {
+      "stat" : "protection",
+      "amount" : 37
+    },
+
+    {
+      "stat" : "maxEnergy",
+      "amount" : 25
+    },
+
+    {
+      "stat" : "maxHealth",
+      "amount" : 35
+    }
+  ]
+}

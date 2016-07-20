@@ -1,0 +1,38 @@
+{
+  "itemName" : "ponytier5spants",
+  "price" : 300,
+  "inventoryIcon" : "icons.png:pants",
+  "dropCollision" : [-4.0, -3.0, 4.0, 3.0],
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "The claws may damage your ship floor.", //description
+  "shortdescription" : "Dragonoid Leggings", //title
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "pants.png",
+  "femaleFrames" : "pants.png",
+
+  "itemTags" : [ "tier5armor" ],
+
+  "statusEffects" : [
+    {
+      "stat" : "powerMultiplier",
+      "baseMultiplier" : 1.5
+    },
+
+    {
+      "stat" : "protection",
+      "amount" : 15
+    },
+
+    {
+      "stat" : "maxEnergy",
+      "amount" : 10
+    },
+
+    {
+      "stat" : "maxHealth",
+      "amount" : 14
+    }
+  ]
+}
