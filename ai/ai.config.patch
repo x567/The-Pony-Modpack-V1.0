@@ -1,0 +1,6 @@
+[
+  { "op": "add","path": "/species/alicorn","value": {"aiFrames": "lunaai.png","portraitFrames": "portraits/lunaportrait.png","staticFrames": "staticapex.png"}},
+  { "op": "add","path": "/species/unicorn","value": {"aiFrames": "lunaai.png","portraitFrames": "portraits/lunaportrait.png","staticFrames": "staticapex.png"}},
+  { "op": "add","path": "/species/pegasus","value": {"aiFrames": "lunaai.png","portraitFrames": "portraits/lunaportrait.png","staticFrames": "staticapex.png"}},
+{ "op": "add","path": "/species/pony","value": {"aiFrames": "lunaai.png","portraitFrames": "portraits/lunaportrait.png","staticFrames": "staticapex.png"}}
+]
