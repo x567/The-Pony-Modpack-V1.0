@@ -1,0 +1,31 @@
+{
+"name" : "pegasusflight",
+ "type" : "body",
+
+"scripts" : [ "pegasusflight.lua" ],
+"animator" : "pegasusflight.animation",
+
+"description" : "Unlocks Pegasus Flight. Jump and WASD to fly, double tap A or D to do a sonic rainboom.",
+"shortDescription" : "Pegasus Flight",
+"rarity" : "Legendary",
+ "icon" : "/tech/pegasusflight.png", 
+
+"chipCost" : 1,
+
+
+
+
+"actions" : [ "boostRightUp", "boostRightDown", "boostLeftUp", "boostLeftDown", "boostRight", "boostDown", "boostLeft", "boostUp" ],
+  "multiJumpCount" : 1,
+  "energyUsage" : 5,
+  "jumpsound" : "/sfx/tech/tech_doublejump.wav",
+  "maximumDoubleTapTime" : 0.2,
+  "dashControlForce" : 600,
+  "dashSpeed" : 40,
+  "dashDuration" : 0.7,
+  "boostControlForce" : 300,
+  "boostSpeed" : 40,
+  "energyUsagePerSecond" : 3,
+  "groundOnly" : false
+}
+

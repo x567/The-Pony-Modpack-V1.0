@@ -1,0 +1,13 @@
+{
+	"name" : "ponyStomp",
+	"type" : "legs",
+
+	"scripts" : [ "stomp.lua" ],
+
+	"description" : "S.T.O.M.P. stands for: Super Terrestrial Overpowered Magical punch.",
+	"shortDescription" : "S.T.O.M.P. 3000",
+	"rarity" : "Legendary",
+	"icon" : "/tech/stomp.png",
+  	
+	 "chipCost" : 1
+}

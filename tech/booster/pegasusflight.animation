@@ -1,0 +1,57 @@
+{
+  "particleEmitters" : {
+	"dashParticles" : {
+      "emissionRate" : 1.37,
+      "particles" : [
+        {
+          "particle" : "rainboom",
+          "flip" : true
+        }
+      ]
+    },
+	"dashParticles2" : {
+      "emissionRate" : 40,
+      "particles" : [
+        {
+          "particle" : "rainbowtrail",
+          "flip" : true
+        }
+      ]
+    },
+	"boostParticles" : {
+      "emissionRate" : 1.0,
+      "particles" : [
+        
+      ]
+    }
+  },
+    
+  "animatedParts" : {
+    "stateTypes" : {
+	  "dashing" : {
+        "default" : "off",
+        "states" : {
+          "off" : {
+          },
+          "on" : {
+            "properties" : {
+              "immediateSound" : "/sfx/rainboom.ogg"
+            }
+          }
+        }
+      },
+	  "boosting" : {
+        "default" : "off",
+        "states" : {
+          "off" : {
+          },
+          "on" : {
+            "properties" : {
+              "persistentSound" : "/sfx/blocks/footstep_sand2.ogg"
+            }
+          }
+        }
+      }
+    }
+  }
+}

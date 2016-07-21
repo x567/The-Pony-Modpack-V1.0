@@ -1,0 +1,30 @@
+{
+  "name" : "targetblink",
+  "type" : "head",
+
+  "scripts" : ["blink.lua"],
+  "animator" : "blink.animation",
+
+"description" : "Press F to teleport to your mouse cursor with this Targeted Blink tech! Cost: 110 energy.",
+"shortDescription" : "Targeted Blink",
+ "rarity" : "Legendary",
+"icon" : "/tech/blink.png",
+
+"chipCost" : 1,
+
+
+
+  "energyUsage" : 10,
+
+  "blinkCollisionCheckDiameter" : 2,
+  "blinkVerticalGroundCheck" : 10,
+
+  // Specific to humanoid
+  "blinkFootOffset" : -2.5,
+  "blinkHeadOffset" : 1,
+
+  "blinkOutTime" : 0.15,
+  "blinkInTime" : 0.15,
+
+  "blinkMode" : "cursor"
+}
